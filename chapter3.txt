@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The first commandment is this, you shall have no other god but me. Not an extract from the Bible. But from memory.
+=======
+The first commandment is this, you shall have no other god but me.This is not the exact extract from the Bible. Just coding. And there was no other theme
+>>>>>>> adding-a-theme

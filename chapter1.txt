@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 In the beginning there was the Light, and the Light was with God and the light was the Word of God. Not an extract from the Bible. But from memory.
+=======
+In the beginning there was the Light, and the Light was with God and the light was the Word of God. This is not the exact extract from the Bible. Just coding. And there was no other theme
+>>>>>>> adding-a-theme
